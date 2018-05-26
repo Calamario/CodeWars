@@ -1,0 +1,1 @@
+Today's kata was https://www.codewars.com/kata/mutate-my-strings/javascript
